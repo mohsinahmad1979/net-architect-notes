@@ -95,4 +95,4 @@ var items = await _context.InventoryItems
 2. **Global Exception Handling Middleware**: Refactor inline try-catch blocks out of business controllers into a central .NET Exception Handler middleware pipeline.
 3. **Advanced Performance Benchmarking**: Introduce pagination (`Skip` / `Take`) and evaluate global query filters for implementing soft-deletion models (`IsDeleted`).
 
-**Ready to resume.** Please prompt the user for instructions on how they want to tackle the next phase.
+**Ready to resume.** Please prompt the user for instructions on how they want to tackle the next phase.----TEST
